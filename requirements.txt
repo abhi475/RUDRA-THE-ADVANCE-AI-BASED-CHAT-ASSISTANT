@@ -1,0 +1,17 @@
+pyttsx3
+speechrecognition
+requests 
+bs4
+datetime
+pygame 
+plyer 
+pyautogui
+wolframalpha
+playsound
+pynput
+googletrans==4.0.0-rc1
+gtts
+pywhatkit
+wikipedia
+pyaudio
+selenium
